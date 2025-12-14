@@ -1,1 +1,2 @@
 "Version initiale de l'application." 
+"Nouvelle section ajout‚e" 
